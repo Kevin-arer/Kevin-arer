@@ -24,4 +24,4 @@ UNAM — Estadística y Probabilidad
 
 🌐 Languages
 
-🇪🇸 Native  ·  🇬🇧 C1  ·  🇩🇪 B1  ·  🇫🇷 Intermediate  ·  🇰🇷 Intermediate
+Spanish Native  ·  English C1  ·  German B1  ·  French Intermediate  ·  Korean Intermediate
