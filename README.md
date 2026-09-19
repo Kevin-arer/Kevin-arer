@@ -1,16 +1,27 @@
-## Hi there 👋
+🧭 About Me
+🎯 Open to new opportunities in Data Analysis, Business Intelligence, and Data Science
+🎓 Recently completed the Data Science & AI Bootcamp at Le Wagon Tokyo — hands-on training in Python, ML, statistics, and medical imaging
+💼 Background in pricing, costing, and quotation analysis for global commercial teams, plus logistics and financial analysis
+🌏 International background: studies and work experience across Mexico, and language training in English, German, French, and Korean
+🇰🇷 Also teach Korean language part-time at a university-affiliated high school program
+🔭 Currently exploring ML/NLP applications in healthcare and diagnostics
+🌱 Deepening my skills in deep learning, backend development (FastAPI), and dashboard/BI design
+📫 Let's connect — reach out via LinkedIn or email below!
+kevin.arer@gmail.com
 
-<!--
-**Kevin-arer/Kevin-arer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Project
+🦵 Knee MRI Diagnostic Support System
 
-Here are some ideas to get you started:
+Python · NLP · Deep Learning · Medical Imaging · Data Analysis — Le Wagon Tokyo, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📜 Certifications
+Six Sigma Green Belt
+IBM — Statistics for Data Science with Python
+IBM — Databases and SQL for Data Science with Python
+Duke University — Business Metrics for Data-Driven Companies
+UNAM — Estadística y Probabilidad
+
+🌐 Languages
+
+🇪🇸 Native  ·  🇬🇧 C1  ·  🇩🇪 B1  ·  🇫🇷 Intermediate  ·  🇰🇷 Intermediate
